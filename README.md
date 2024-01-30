@@ -1,1 +1,1 @@
-[![.github/workflows/gradle-publish.yml](https://github.com/dmitriy91pozdeev/Automation-HW2/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/dmitriy91pozdeev/Automation-HW2/actions/workflows/gradle-publish.yml)
+[![Java CI with Gradle](https://github.com/dmitriy91pozdeev/Automation-HW2/actions/workflows/gradle.yml/badge.svg)](https://github.com/dmitriy91pozdeev/Automation-HW2/actions/workflows/gradle.yml)
