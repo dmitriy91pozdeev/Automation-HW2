@@ -1,1 +1,1 @@
-[![.github/workflows/gradle-publish.yml](https://github.com/dmitriy91pozdeev/Automation-HW2/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/dmitriy91pozdeev/Automation-HW2/actions/workflows/gradle-publish.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/tgil0vf4588pgrnc?svg=true)](https://ci.appveyor.com/project/dmitriy91pozdeev/automation-hw2)
